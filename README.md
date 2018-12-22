@@ -1,1 +1,1 @@
-# Enderchest-Slots
+# EnderChest-Slots
